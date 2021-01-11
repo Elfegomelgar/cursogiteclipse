@@ -1,4 +1,4 @@
-A�ado un contenido
+Añado un contenido
 
 
 prueba
@@ -7,3 +7,5 @@ prueba
 Cambios para la prueba de gitHub
 
 cambios para git 2
+
+Cambio hecho por un compañero
