@@ -11,3 +11,6 @@ cambios para git 2
 Cambio hecho por un compaÃ±ero
 
 añado los cambios de la feature 1
+
+
+feature3
